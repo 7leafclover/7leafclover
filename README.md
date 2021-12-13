@@ -13,11 +13,10 @@ Hi! Welcome to my Github.
 [![levi-master's github stats](https://github-readme-stats.vercel.app/api?username=levi-master&show_icons=true&theme=dracula)](https://github.com/levi-master)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levi-master&layout=compact&langs_count=8&theme=dracula)](https://github.com/levi-master)
 
-![levi-master's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=levi-master)
+![levi-master's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=levi)
 
-### 
+
 - EyedLab Software Engineer (2020 ~ 2021)
 - Crowdbase Software Engineer (2019 ~ 2020)
 
-### 🌱 I’m currently learning
-- Languages: Python, Typescript
+### Languages: Python, Typescript

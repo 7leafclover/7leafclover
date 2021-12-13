@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=DB4455&height=300&section=header&text=DEVELOPER&fontSize=90&fontColor=dbdbdb)
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=00000&height=80&section=header&text=LEVI&fontSize=16&fontColor=dbdbdb)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=00000&height=80&section=header&text=LEVI&fontSize=16&fontColor=dbdbdb)
 
 ### Hi! Welcome to my Github Profile.
 

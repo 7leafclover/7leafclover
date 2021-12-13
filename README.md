@@ -11,7 +11,7 @@
 [![levi-master's github stats](https://github-readme-stats.vercel.app/api?username=levi-master&show_icons=true&theme=dracula)](https://github.com/levi-master)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levi-master&layout=compact&langs_count=8&theme=dracula)](https://github.com/levi-master)
 
-![levi-master's solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=levi)
+![levi's solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=levi)
 
 - EyedLab Software Engineer (2020 ~ 2021)
 - Crowdbase Software Engineer (2019 ~ 2020)

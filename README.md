@@ -16,4 +16,5 @@
 - EyedLab Software Engineer (2020 ~ 2021)
 - Crowdbase Software Engineer (2019 ~ 2020)
 
-### Languages: Python, Typescript
+### I’m currently learning
+Languages: Python, Typescript

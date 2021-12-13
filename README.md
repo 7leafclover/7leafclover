@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=DB4455&height=300&section=header&text=LEVI%20DEV&fontSize=90&fontColor=dbdbdb)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=DB4455&height=300&section=header&text=Levi%20Dev&fontSize=90&fontColor=dbdbdb)
 
 ### Hi! Welcome to my Github Profile.
 

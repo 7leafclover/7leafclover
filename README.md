@@ -1,6 +1,4 @@
-### Levi's Repository
-
-Hi! Welcome to my Github.
+### Hi! Welcome to my Github Profile.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flevi-master)](https://github.com/levi-master)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gloomyowl.kr@gmail.com)](mailto:gloomyowl.kr@gmail.com)
@@ -13,8 +11,7 @@ Hi! Welcome to my Github.
 [![levi-master's github stats](https://github-readme-stats.vercel.app/api?username=levi-master&show_icons=true&theme=dracula)](https://github.com/levi-master)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levi-master&layout=compact&langs_count=8&theme=dracula)](https://github.com/levi-master)
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=levi">
-
+![levi-master's solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=levi)
 
 - EyedLab Software Engineer (2020 ~ 2021)
 - Crowdbase Software Engineer (2019 ~ 2020)

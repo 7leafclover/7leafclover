@@ -2,6 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flevi-higher)](https://github.com/levi-higher)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levi-higher@gmail.com)](mailto:levi-higher@gmail.com)
+[!NextJS Icon](https://img.shields.io/badge/NextJS?style=flat-square&logo=Next.js&logoColor=white")
 [![Github Followers](https://img.shields.io/github/followers/levi-higher?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/levi-higher?tab=followers)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=levi-higher&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)

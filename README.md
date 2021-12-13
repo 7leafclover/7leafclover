@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levi-higher&layout=compact&langs_count=8&theme=dracula)](https://github.com/levi-higher)
 
-![levi's solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=systemh)
+![levi's solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=levi)
 
 
 ### I’m currently working on

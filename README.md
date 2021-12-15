@@ -22,7 +22,7 @@
 
 
 ### I’m currently working on
-- EyedLab Software Engineer (2020 ~ 2021)
+- EyedLab Software Engineer (2020 ~ )
 - Crowdbase Software Engineer (2019 ~ 2020)
 
 ### I’m currently learning

@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levi-higher&layout=compact&langs_count=8&theme=dracula)](https://github.com/levi-higher)
 
-[![Solved.ac badge](http://mazassumnida.wtf/api/generate_badge?boj=levi_higher)](https://solved.ac/levi_higher)
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=levi_higher)](https://solved.ac/levi_higher)
 
 ### I’m currently working on
 - EyedLab Software Engineer (2020 ~ )

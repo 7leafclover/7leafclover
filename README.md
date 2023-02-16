@@ -25,4 +25,4 @@
 - Crowdbase Software Engineer (2019 ~ 2020)
 
 ### I’m currently learning
-Languages: Python, Typescript
+Languages: Dart, Python, Typescript

@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=Waving&color=DB4455&height=300&section=header&text=DEVELOPER&fontSize=80&fontColor=dbdbdb)](https://github.com/mistyindigo7)
+[![header](https://capsule-render.vercel.app/api?type=Waving&color=DB4455&height=300&section=header&text=DEVELOPERS&fontSize=80&fontColor=dbdbdb)](https://github.com/mistyindigo7)
 
 ### Hi! Welcome to my Github Profile.
 

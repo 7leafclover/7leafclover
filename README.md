@@ -21,8 +21,9 @@
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mistyindigo7)](https://solved.ac/mistyindigo7)
 
 ### I’m currently working on
-- EyedLab Software Engineer (2020 ~ )
-- Crowdbase Software Engineer (2019 ~ 2020)
+- CoffeeCode - SoftwareTeam Service Leader (2023 ~ )
+- EyedLab - SoftwareTeam Service Leader (2020 ~ 2023)
+- Crowdbase - SoftwareTeam Junior (2019 ~ 2020)
 
 ### I’m currently learning
-Languages: Dart, Python, Typescript
+Languages: GoLang, Dart, Python, Typescript

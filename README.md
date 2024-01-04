@@ -1,6 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=Waving&color=DB4455&height=300&section=header&text=DEVELOPERS&fontSize=80&fontColor=dbdbdb)](https://github.com/mistyindigo7)
-
-### Hi! Welcome to my Github Profile.
+### Hi! i'm ByungJune
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmistyindigo7)](https://github.com/mistyindigo7)
 [![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)

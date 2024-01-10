@@ -19,10 +19,10 @@
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mistyindigo7)](https://solved.ac/mistyindigo7)
 
 ### I’m currently working on
-- *******
+- Ditial Nomad (2023.12 ~)
 - CoffeeCode - Founding Member (2023.10 ~ 2023.12)
 - EyedLab - Software Engineer (2020.08 ~ 2023.10)
 - Crowdbase - Software Engineer (2019.08 ~ 2020.08)
 
 ### I’m currently learning
-Languages: GoLang, Dart, Python, Typescript
+Languages: JavaScript, Python

@@ -1,5 +1,6 @@
 ### Hi! i'm ByungJune.
 
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mistyindigo7)](https://solved.ac/mistyindigo7)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmistyindigo7)](https://github.com/mistyindigo7)
 [![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
@@ -8,8 +9,6 @@
 [![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white)](https://nextjs.org)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mistyindigo7@gmail.com)](mailto:mistyindigo7@gmail.com)
 [![Github Followers](https://img.shields.io/github/followers/mistyindigo7?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/mistyindigo7?tab=followers)
-
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mistyindigo7)](https://solved.ac/mistyindigo7)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mistyindigo7&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 

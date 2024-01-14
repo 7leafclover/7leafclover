@@ -9,13 +9,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mistyindigo7@gmail.com)](mailto:mistyindigo7@gmail.com)
 [![Github Followers](https://img.shields.io/github/followers/mistyindigo7?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/mistyindigo7?tab=followers)
 
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mistyindigo7)](https://solved.ac/mistyindigo7)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mistyindigo7&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![mistyindigo7-master's github stats](https://github-readme-stats.vercel.app/api?username=mistyindigo7&show_icons=true&theme=dracula)](https://github.com/mistyindigo7)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistyindigo7&layout=compact&langs_count=8&theme=dracula)](https://github.com/mistyindigo7)
 
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mistyindigo7)](https://solved.ac/mistyindigo7)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mistyindigo7&theme=dark)](https://git.io/streak-stats)
 
 ### I’m currently working on
 - Ditial Nomad (2023.12 ~ )

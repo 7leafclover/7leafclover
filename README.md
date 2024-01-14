@@ -1,5 +1,3 @@
-### Hi! i'm ByungJune.
-
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mistyindigo7)](https://solved.ac/mistyindigo7)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmistyindigo7)](https://github.com/mistyindigo7)

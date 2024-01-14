@@ -10,8 +10,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mistyindigo7&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=mistyindigo7&theme=calm)](https://github.com/mistyindigo7)
-
 [![mistyindigo7-master's github stats](https://github-readme-stats.vercel.app/api?username=mistyindigo7&show_icons=true&theme=dracula)](https://github.com/mistyindigo7)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistyindigo7&layout=compact&langs_count=8&theme=dracula)](https://github.com/mistyindigo7)
@@ -19,7 +17,7 @@
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mistyindigo7)](https://solved.ac/mistyindigo7)
 
 ### I’m currently working on
-- Ditial Nomad (2023.12 ~)
+- Ditial Nomad (2023.12 ~ )
 - CoffeeCode - Founding Member (2023.10 ~ 2023.12)
 - EyedLab - Software Engineer (2020.08 ~ 2023.10)
 - Crowdbase - Software Engineer (2019.08 ~ 2020.08)

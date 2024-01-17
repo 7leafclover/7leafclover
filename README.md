@@ -10,10 +10,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mistyindigo7&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![mistyindigo7-master's github stats](https://github-readme-stats.vercel.app/api?username=mistyindigo7&show_icons=true&theme=dracula)](https://github.com/mistyindigo7)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistyindigo7&layout=compact&langs_count=8&theme=dracula)](https://github.com/mistyindigo7)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mistyindigo7&theme=dark)](https://git.io/streak-stats)
 
 ### I’m currently working on

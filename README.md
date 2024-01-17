@@ -17,6 +17,3 @@
 - CoffeeCode - Founding Member (2023.10 ~ 2023.12)
 - EyedLab - Software Engineer (2020.08 ~ 2023.10)
 - Crowdbase - Software Engineer (2019.08 ~ 2020.08)
-
-### I’m currently learning
-Languages: JavaScript, Python

@@ -1,4 +1,4 @@
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mistyindigo7)](https://solved.ac/mistyindigo7)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=mistyindigo7)](https://solved.ac/mistyindigo7)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmistyindigo7)](https://github.com/mistyindigo7)
 [![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)

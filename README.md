@@ -12,7 +12,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mistyindigo7&theme=dark)](https://git.io/streak-stats)
 
 ### I’m currently working on
-- Ditial Nomad (2023.12 ~ )
+- Digital Nomad (2024.01 ~ )
 - CoffeeCode - Founding Member (2023.10 ~ 2023.12)
 - EyedLab - Software Engineer (2020.08 ~ 2023.10)
 - Crowdbase - Software Engineer (2019.08 ~ 2020.08)

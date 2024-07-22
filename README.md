@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmistyindigo7)](https://github.com/mistyindigo7)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCody-geekdive)](https://github.com/Cody-geekdive)
 [![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
 [![AWS](https://img.shields.io/badge/AWS-DB4455?style=flat-square&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
 [![Typescript](https://img.shields.io/badge/TypeScript-719af4?style=flat-square&logo=Typescript&logoColor=white)](https://typescriptlang.org)
